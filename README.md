@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Any knowledge to help me optimize for my current assignments and future projects.**
 
-- 👨‍💻 All of my projects are available at [All of my projects will soon be showcased in a dedicated portfolio. I'm currently in the process of curating and finalizing it. Stay tuned!](All of my projects will soon be showcased in a dedicated portfolio. I'm currently in the process of curating and finalizing it. Stay tuned!)
+- 👨‍💻 All of my projects are available at(All of my projects will soon be showcased in a dedicated portfolio. I'm currently in the process of curating and finalizing it. Stay tuned!)
 
 - 💬 Ask me about **My experience in the bootcamp, the projects I've built, and the challenges I've faced.**
 
