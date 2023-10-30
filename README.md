@@ -1,6 +1,6 @@
 <p align="center">
    <img src="https://images.unsplash.com/photo-1547058638-d746312503bb?auto=format&fit=crop&q=80&w=5340&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="David 'Nick' Stroupe's Banner">
-</p> 
+</p> ghgghghg
 
 <h1 align="center">Hi 👋, I'm David "Nick" Stroupe</h1>
 <h3 align="center">Fullstack Academy Student | US Navy Veteran | Contract Team Lead at WWC Federal (A Pequot Company) -"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!" - Naruto Uzumaki.</h3>
