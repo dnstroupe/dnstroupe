@@ -31,6 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/david-stroupe" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="david-stroupe" height="30" /></a>
 <a href="https://www.leetcode.com/dnstroupe" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode" alt="dnstroupe" height="30" /></a>
+<a href="https://www.instagram.com/barefooteddragonkick" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram" alt="Instagram" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,11 +46,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnstroupe&show_icons=true&locale=en&layout=compact" alt="dnstroupe" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&locale=en" alt="dnstroupe" /></p>
+<p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&" alt="dnstroupe" /></p>
 
 ---
 
-🌟 **Thank you for visiting my profile!** If you'd like to learn more or see my latest projects, be sure to check out [my portfolio](#) or [follow me on Twitter](#).
-
---- 
+🙌 Thank you for taking the time to know a bit about me. Stay connected!
+---
 
