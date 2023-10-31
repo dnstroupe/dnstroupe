@@ -1,16 +1,12 @@
-
-
----
-
 <p align="center">
-   <img src="https://images.unsplash.com/photo-1547058638-d746312503bb?auto=format&fit=crop&q=80&w=5340&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="David 'Nick' Stroupe's Personalized Banner">
+   <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg" width="100%" alt="David 'Nick' Stroupe's Personalized Banner">
 </p> 
 
 <h1 align="center">Hi 👋, I'm David "Nick" Stroupe</h1>
-<h3 align="center">Fullstack Academy Student | US Navy Veteran | Contract Team Lead at WWC Federal (A Pequot Company) -"I'm not gonna run away, I never go back on my word! That's my nindo: my ninja way!" - Naruto Uzumaki.</h3>
+<h3 align="center">Fullstack Academy Student | US Navy Veteran | Contract Team Lead at WWC Federal (A Pequot Company) - "You can’t use up creativity. The more you use, the more you have." - Maya Angelou.</h3>
 
 <p align="center">
-   <img src="https://cdn.pixabay.com/photo/2023/09/04/07/39/ai-generated-8232206_1280.png" width="300" alt="Naruto Uzumaki">
+   <img src="https://cdn.pixabay.com/photo/2019/09/29/22/06/light-bulb-4514505_1280.jpg" width="300" alt="Inspirational Image">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnstroupe&label=Profile%20views&color=0e75b6&style=flat" alt="dnstroupe" /> </p>
@@ -54,4 +50,3 @@
 
 🙌 Thank you for taking the time to know a bit about me. Stay connected!
 ---
-
