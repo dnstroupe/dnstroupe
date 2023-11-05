@@ -1,7 +1,7 @@
 <p align="center">
    <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg" width="100%" alt="David 'Nick' Stroupe's Personalized Banner">
 </p> 
-kjkjkjk
+
 <h1 align="center">Hi 👋, I'm David "Nick" Stroupe</h1>
 <h3 align="center">Fullstack Academy Student | US Navy Veteran | Contract Team Lead at WWC Federal (A Pequot Company) - "You can’t use up creativity. The more you use, the more you have." - Maya Angelou.</h3>
 
