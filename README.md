@@ -1,7 +1,7 @@
 <div align="center">
    <img src="https://cdn.pixabay.com/photo/2018/09/27/09/22/artificial-intelligence-3706562_1280.jpg" width="100%" alt="David 'Nick' Stroupe's Personalized Banner">
 </div> 
-
+jkjkjkjjjjljkjkkjjj
 <h1 align="center">David "Nick" Stroupe</h1>
 <h2 align="center">Fullstack Developer in Training | Navy Veteran | Technology Leader</h2>
 <p align="center">"Creativity is inexhaustible—the more you use, the more you have." — Maya Angelou</p>
