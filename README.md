@@ -5,7 +5,7 @@
 <h1 align="center">David "Nick" Stroupe</h1>
 <h2 align="center">Fullstack Developer in Training | Navy Veteran | Technology Leader</h2>
 <p align="center">"Creativity is inexhaustible—the more you use, the more you have." — Maya Angelou</p>
-
+kjkjkjjjjkljl
 <div align="center">
    <img src="https://cdn.pixabay.com/photo/2019/09/29/22/06/light-bulb-4514505_1280.jpg" width="300" alt="Inspirational Light Bulb Image">
 </div>
