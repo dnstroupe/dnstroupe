@@ -1,81 +1,90 @@
-<h1 align="center">David "Nick" Stroupe</h1>
-<h2 align="center">Lead Technologist | Fullstack Developer in Training | Navy Veteran</h2>
-<p align="center">"Creativity is inexhaustible—the more you use, the more you have." — Maya Angelou</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>David "Nick" Stroupe - GitHub Profile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-800 font-sans">
+    <div class="container mx-auto px-4 py-8 max-w-4xl">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-bold mb-2">David "Nick" Stroupe</h1>
+            <h2 class="text-2xl text-gray-600 mb-4">Lead Technologist | Fullstack Developer in Training | Navy Veteran</h2>
+            <p class="italic text-gray-500">"Creativity is inexhaustible—the more you use, the more you have." — Maya Angelou</p>
+        </header>
 
-<div align="center">
-   <img src="https://images.unsplash.com/photo-1630515782957-78452779ca81?q=80&w=2727&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" style="border-radius: 50%;" alt="Modern Circular Image">
-</div>
+        <div class="flex justify-center mb-8">
+            <img src="/api/placeholder/300/300" alt="David Nick Stroupe" class="rounded-full w-64 h-64 object-cover shadow-lg">
+        </div>
 
-<div align="left">
-   <img src="https://komarev.com/ghpvc/?username=dnstroupe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
-   <a href="https://github-profile-trophy.vercel.app/?username=dnstroupe&theme=juicyfresh&no-frame=true&row=1&column=6">
-      <img src="https://github-profile-trophy.vercel.app/?username=dnstroupe&theme=juicyfresh&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-   </a>
-</div>
+        <section class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">👋 About Me</h2>
+            <p class="text-gray-700 leading-relaxed">
+                With over 20 years of military service and a passion for technology, I bring expertise in <strong>SharePoint Administration</strong>, <strong>Microsoft 365</strong> tools, and recent completion of a Full Stack JavaScript Web Development bootcamp. I'm focused on utilizing my skills in <strong>Power Automate</strong>, <strong>Power Apps</strong>, and <strong>Power BI</strong>, while actively exploring web development projects. I hold an <strong>active TS/SCI security clearance</strong> and thrive on using technology to solve real-world problems.
+            </p>
+        </section>
 
-## 👋 About Me
-With over 20 years of military service and a passion for technology, I bring expertise in **SharePoint Administration**, **Microsoft 365** tools, and a recent completion of a Full Stack JavaScript Web Development bootcamp. I’m focused on utilizing my skills in **Power Automate**, **Power Apps**, and **Power BI**, while actively exploring web development projects. I hold an **active TS/SCI security clearance** and thrive on using technology to solve real-world problems.
+        <section class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">🛠️ Skills</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Proficient</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded">SharePoint</span>
+                        <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded">Microsoft 365</span>
+                        <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded">Power Automate</span>
+                        <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded">Power BI</span>
+                        <span class="bg-blue-100 text-blue-800 px-2 py-1 rounded">SQL</span>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-semibold mb-2">Knowledgeable</h3>
+                    <div class="flex flex-wrap gap-2">
+                        <span class="bg-green-100 text-green-800 px-2 py-1 rounded">JavaScript</span>
+                        <span class="bg-green-100 text-green-800 px-2 py-1 rounded">React</span>
+                        <span class="bg-green-100 text-green-800 px-2 py-1 rounded">Node.js</span>
+                        <span class="bg-green-100 text-green-800 px-2 py-1 rounded">HTML5</span>
+                        <span class="bg-green-100 text-green-800 px-2 py-1 rounded">CSS3</span>
+                    </div>
+                </div>
+            </div>
+        </section>
 
-## 🛠️ Skills
+        <section class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">📁 Projects</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div class="border rounded-lg p-4">
+                    <h3 class="text-xl font-semibold mb-2">🎮 Pokémon Chatbot</h3>
+                    <p class="text-gray-600 mb-2">An interactive chatbot for Pokémon fans that delivers fun, dynamic responses based on user inputs.</p>
+                    <p class="text-sm text-gray-500">Technologies: JavaScript, HTML5, CSS3</p>
+                    <a href="https://dnstroupe.github.io/pokemon-bot/" class="text-blue-600 hover:underline">View Project</a>
+                </div>
+                <div class="border rounded-lg p-4">
+                    <h3 class="text-xl font-semibold mb-2">📺 Anime TV Show Recommender</h3>
+                    <p class="text-gray-600 mb-2">A responsive web app designed for anime enthusiasts to discover new shows based on their preferences.</p>
+                    <p class="text-sm text-gray-500">Technologies: JavaScript ES6+, HTML5, CSS3</p>
+                    <a href="https://dnstroupe.github.io/anime-recommender/" class="text-blue-600 hover:underline">View Project</a>
+                </div>
+            </div>
+        </section>
 
-**Proficient**  
-![SharePoint](https://img.shields.io/badge/SharePoint-0078d4?logo=microsoft-sharepoint&style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft&style=flat-square) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?logo=microsoft-power-automate&style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&style=flat-square)  
-**SDLC**, **ITIL**, **Project Management**
+        <section class="bg-white rounded-lg shadow-md p-6 mb-8">
+            <h2 class="text-2xl font-bold mb-4">Connect with me</h2>
+            <div class="flex space-x-4">
+                <a href="https://linkedin.com/in/david-stroupe" class="text-blue-600 hover:text-blue-800">
+                    <i class="fab fa-linkedin fa-2x"></i>
+                </a>
+                <a href="https://www.leetcode.com/dnstroupe" class="text-orange-600 hover:text-orange-800">
+                    <i class="fab fa-leetcode fa-2x"></i>
+                </a>
+            </div>
+        </section>
 
-**Source Control & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square) ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?logo=windows-terminal&style=flat-square) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&style=flat-square)
-
-**Knowledgeable**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square)  
-**RESTful APIs**, **MongoDB**, **PostgreSQL**, **AWS**
-
----
-
-## 📁 Projects
-
-### [🎮 Pokémon Chatbot](https://dnstroupe.github.io/pokemon-bot/)
-An interactive chatbot for Pokémon fans that delivers fun, dynamic responses based on user inputs.  
-*Technologies Used: JavaScript, HTML5, CSS3*
-
-### [📺 Anime TV Show Recommender](https://dnstroupe.github.io/anime-recommender/)
-A responsive web app designed for anime enthusiasts to discover new shows based on their preferences.  
-*Technologies Used: JavaScript ES6+, HTML5, CSS3*  
-[Live Demo](https://dnstroupe.github.io/anime-recommender/) | [GitHub Repo](https://github.com/dnstroupe/anime-recommender)
-
-### [🐶 Puppy Bowl Management System](https://dnstroupe.github.io/Unit2.PuppyBowl.Starter./)
-A CRUD application to manage Puppy Bowl player data, featuring RESTful API integration.  
-*Technologies Used: JavaScript, HTML5, CSS3, REST APIs*  
-[Live Demo](https://dnstroupe.github.io/Unit2.PuppyBowl.Starter./) | [GitHub Repo](https://github.com/dnstroupe/puppybowl)
-
-### [🎨 React Router Color Switcher](https://blue-red-react.netlify.app/)
-A fun and simple app that allows users to switch between color themes using React Router.  
-*Technologies Used: React, CSS*  
-[Live Demo](https://blue-red-react.netlify.app/) | [GitHub Repo](https://github.com/dnstroupe/react-color-switcher)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-   <a href="https://linkedin.com/in/david-stroupe" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Profile" height="30" />
-   </a>
-   <a href="https://www.leetcode.com/dnstroupe" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode" alt="LeetCode Profile" height="30" />
-   </a>
-</div>
-
----
-
-## 🎉 Fun Facts & Interests
-
-- I’m a huge fan of **anime**, with favorites like _Demon Slayer_ and _Hunter x Hunter_.
-- My go-to music genres are **hip hop**, **R&B**, and **Afrobeats**. 🎧
-- I enjoy exploring how technology can create engaging and efficient solutions to real-world challenges.
-
-<hr>
-
-<p align="center">Thank you for visiting my profile. Let's innovate and create together.</p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnstroupe&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=tokyonight" alt="GitHub Streak" />
+        <footer class="text-center text-gray-600 mt-8">
+            <p>Thank you for visiting my profile. Let's innovate and create together.</p>
+        </footer>
+    </div>
+</body>
+</html>
