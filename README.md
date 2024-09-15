@@ -1,81 +1,125 @@
-<h1 align="center">David "Nick" Stroupe</h1>
-<h2 align="center">Lead Technologist | Fullstack Developer in Training | Navy Veteran</h2>
-<p align="center">"Creativity is inexhaustible—the more you use, the more you have." — Maya Angelou</p>
+<!-- Header with Banner and Circular Image -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1630515782957-78452779ca81?q=80&w=2727&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Image" style="border-radius:50%; width:200px;" />
+</p>
+
+<h1 align="center">David Stroupe</h1>
+<h3 align="center">Lead Technologist | Bridging SharePoint Solutions & Full Stack Innovation</h3>
+
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-SharePoint-blue" alt="SharePoint Badge" />
+  <img src="https://img.shields.io/badge/-FullStack%20Web%20Developer-green" alt="FullStack Badge" />
+  <img src="https://img.shields.io/badge/-Lead%20Technologist-blue" alt="Lead Technologist Badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/dnstroupe?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/dnstroupe?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+---
+
+<!-- About Me Section -->
+### About Me
+
+I’m **David Stroupe**, a passionate Lead Technologist with over 20 years of military experience and an extensive background in **SharePoint Administration**. My career has recently expanded into **Full Stack Web Development**, where I apply the same precision and commitment to building innovative solutions. My focus on adaptability and continuous learning drives me to bridge the gap between enterprise systems like **Microsoft 365** and modern web technologies like **React** and **Node.js**.
+
+---
+
+<!-- Skills Section -->
+### Technical Skills
 
 <div align="center">
-   <img src="https://images.unsplash.com/photo-1630515782957-78452779ca81?q=80&w=2727&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="300" style="border-radius: 50%;" alt="Modern Circular Image">
+  <img src="https://img.icons8.com/?size=96&id=bVAf0kiXtJhO&format=png" alt="SharePoint" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft 365" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
 </div>
 
-<div align="left">
-   <img src="https://komarev.com/ghpvc/?username=dnstroupe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
-   <a href="https://github-profile-trophy.vercel.app/?username=dnstroupe&theme=juicyfresh&no-frame=true&row=1&column=6">
-      <img src="https://github-profile-trophy.vercel.app/?username=dnstroupe&theme=juicyfresh&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-   </a>
-</div>
 
-## 👋 About Me
-With over 20 years of military service and a passion for technology, I bring expertise in **SharePoint Administration**, **Microsoft 365** tools, and a recent completion of a Full Stack JavaScript Web Development bootcamp. I’m focused on utilizing my skills in **Power Automate**, **Power Apps**, and **Power BI**, while actively exploring web development projects. I hold an **active TS/SCI security clearance** and thrive on using technology to solve real-world problems.
 
-## 🛠️ Skills
+#### Proficient In:
+- **SharePoint Administration** | **Microsoft 365 Suite** | **Power Automate** | **Power BI**
+- **Database Management** (SQL, Microsoft Access, SharePoint Lists)
+- **Project & Process Management** (SDLC, ITIL)
 
-**Proficient**  
-![SharePoint](https://img.shields.io/badge/SharePoint-0078d4?logo=microsoft-sharepoint&style=flat-square) ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?logo=microsoft&style=flat-square) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0089D6?logo=microsoft-power-automate&style=flat-square) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&style=flat-square) ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&style=flat-square)  
-**SDLC**, **ITIL**, **Project Management**
-
-**Source Control & Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square) ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&style=flat-square) ![Command Line](https://img.shields.io/badge/Command%20Line-000000?logo=windows-terminal&style=flat-square) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&style=flat-square)
-
-**Knowledgeable**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=flat-square)  
-**RESTful APIs**, **MongoDB**, **PostgreSQL**, **AWS**
+#### Knowledgeable:
+- **Full Stack Development** (React, Node.js, Express.js, HTML5, CSS3, RESTful APIs)
+- **Cloud Technologies** (AWS: EC2, S3)
+- **Source Control** (Git, GitHub)
 
 ---
 
-## 📁 Projects
+<!-- Projects Section -->
+### Projects
 
-### [🎮 Pokémon Chatbot](https://dnstroupe.github.io/pokemon-bot/)
-An interactive chatbot for Pokémon fans that delivers fun, dynamic responses based on user inputs.  
-*Technologies Used: JavaScript, HTML5, CSS3*
+<div align="center">
+  <a href="https://dnstroupe.github.io/pokemon-bot/">
+    <img src="https://img.shields.io/static/v1?label=Project&message=Pokemon%20Bot&color=blue" alt="Pokemon Bot Project" />
+  </a>
+  <a href="https://github.com/dnstroupe/Anime-TV-Recommender">
+    <img src="https://img.shields.io/static/v1?label=Project&message=Anime%20TV%20Recommender&color=blue" alt="Anime TV Recommender Project" />
+  </a>
+  <a href="https://github.com/dnstroupe/PuppyBowl">
+    <img src="https://img.shields.io/static/v1?label=Project&message=Puppy%20Bowl%20Management&color=blue" alt="Puppy Bowl Management Project" />
+  </a>
+</div>
 
-### [📺 Anime TV Show Recommender](https://dnstroupe.github.io/anime-recommender/)
-A responsive web app designed for anime enthusiasts to discover new shows based on their preferences.  
-*Technologies Used: JavaScript ES6+, HTML5, CSS3*  
-[Live Demo](https://dnstroupe.github.io/anime-recommender/) | [GitHub Repo](https://github.com/dnstroupe/anime-recommender)
-
-### [🐶 Puppy Bowl Management System](https://dnstroupe.github.io/Unit2.PuppyBowl.Starter./)
-A CRUD application to manage Puppy Bowl player data, featuring RESTful API integration.  
-*Technologies Used: JavaScript, HTML5, CSS3, REST APIs*  
-[Live Demo](https://dnstroupe.github.io/Unit2.PuppyBowl.Starter./) | [GitHub Repo](https://github.com/dnstroupe/puppybowl)
-
-### [🎨 React Router Color Switcher](https://blue-red-react.netlify.app/)
-A fun and simple app that allows users to switch between color themes using React Router.  
-*Technologies Used: React, CSS*  
-[Live Demo](https://blue-red-react.netlify.app/) | [GitHub Repo](https://github.com/dnstroupe/react-color-switcher)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Pokemon Bot](https://dnstroupe.github.io/pokemon-bot/) | A chatbot that recommends Pokemon based on user preferences. | JavaScript, HTML5, CSS3 |
+| [Anime TV Show Recommender](https://github.com/dnstroupe/Anime-TV-Recommender) | A responsive web app that helps users discover new anime shows. | JavaScript, HTML5, CSS3 |
+| [Puppy Bowl Management](https://github.com/dnstroupe/PuppyBowl) | A web app managing Puppy Bowl players using CRUD operations. | React, Node.js, MongoDB, Express.js |
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-   <a href="https://linkedin.com/in/david-stroupe" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn Profile" height="30" />
-   </a>
-   <a href="https://www.leetcode.com/dnstroupe" target="_blank">
-      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode" alt="LeetCode Profile" height="30" />
-   </a>
+<!-- GitHub Stats Section -->
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&theme=dark" alt="David's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=dark" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎉 Fun Facts & Interests
+<!-- Certifications and Education -->
+### Certifications & Education
 
-- I’m a huge fan of **anime**, with favorites like _Demon Slayer_ and _Hunter x Hunter_.
-- My go-to music genres are **hip hop**, **R&B**, and **Afrobeats**. 🎧
-- I enjoy exploring how technology can create engaging and efficient solutions to real-world challenges.
+- **Active TS/SCI Security Clearance**
+- **ITIL V4 Foundation**
+- **Fullstack Academy Web Development Bootcamp** (Oct 2023 - Apr 2024)
+- **DISA Services Course** - DISA Strategic Partner Integration Office
 
-<hr>
+---
 
-<p align="center">Thank you for visiting my profile. Let's innovate and create together.</p>
+<!-- Connect Section -->
+### Connect with Me
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnstroupe&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=tokyonight" alt="GitHub Streak" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-stroupe">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:d.n.stroupe@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+  </a>
+  <a href="https://dnstroupe.github.io/portfolio/">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" />
+  </a>
+</div>
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dnstroupe)
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dnstroupe&style=flat-square&color=blue" alt="Visitors" />
+  <br />
+  <i>Last updated on September 2024</i>
+</p>
