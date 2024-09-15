@@ -1,6 +1,6 @@
-<!-- Header with Banner and Circular Image -->
+<!-- Header with Circular Avatar Image -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1630515782957-78452779ca81?q=80&w=2727&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Banner Image" style="border-radius:50%; width:200px;" />
+  <img src="https://github.com/dnstroupe/business-photo/blob/main/David%20Stroupe%20-%20HeadshotPro.png" alt="Avatar" style="border-radius:50%; width:150px;" />
 </p>
 
 <h1 align="center">David Stroupe</h1>
@@ -40,8 +40,6 @@ I’m **David Stroupe**, a passionate Lead Technologist with over 20 years of mi
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
 </div>
-
-
 
 #### Proficient In:
 - **SharePoint Administration** | **Microsoft 365 Suite** | **Power Automate** | **Power BI**
