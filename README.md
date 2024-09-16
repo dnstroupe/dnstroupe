@@ -84,7 +84,7 @@ I’m **David Stroupe**, a passionate Lead Technologist with over 20 years of mi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=dark" alt="GitHub Streak" />
 </div>
 
----
+--
 
 <!-- Certifications and Education -->
 ### Certifications & Education
