@@ -1,123 +1,128 @@
-<!-- Header with Circular Avatar Image -->
-<p align="center">
-  <img src="https://github.com/dnstroupe/business-photo/blob/main/David%20Stroupe%20-%20HeadshotPro.png" alt="Avatar" style="border-radius:50%; width:150px;" />
-</p>
-
-<h1 align="center">David Stroupe</h1>
-<h3 align="center">Lead Technologist | Bridging SharePoint Solutions & Full Stack Innovation</h3>
-
-<!-- Profile Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-SharePoint-blue" alt="SharePoint Badge" />
-  <img src="https://img.shields.io/badge/-FullStack%20Web%20Developer-green" alt="FullStack Badge" />
-  <img src="https://img.shields.io/badge/-Lead%20Technologist-blue" alt="Lead Technologist Badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/dnstroupe?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/dnstroupe?label=Stars&style=social" alt="GitHub Stars" />
-</p>
-
----
-
-<!-- About Me Section -->
-### About Me
-
-I’m **David Stroupe**, a passionate Lead Technologist with over 20 years of military experience and an extensive background in **SharePoint Administration**. My career has recently expanded into **Full Stack Web Development**, where I apply the same precision and commitment to building innovative solutions. My focus on adaptability and continuous learning drives me to bridge the gap between enterprise systems like **Microsoft 365** and modern web technologies like **React** and **Node.js**.
-
----
-
-<!-- Skills Section -->
-### Technical Skills
-
 <div align="center">
-  <img src="https://img.icons8.com/?size=96&id=bVAf0kiXtJhO&format=png" alt="SharePoint" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="Microsoft 365" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
-</div>
 
-#### Proficient In:
-- **SharePoint Administration** | **Microsoft 365 Suite** | **Power Automate** | **Power BI**
-- **Database Management** (SQL, Microsoft Access, SharePoint Lists)
-- **Project & Process Management** (SDLC, ITIL)
+<img src="https://github.com/dnstroupe/business-photo/blob/main/David%20Stroupe%20-%20HeadshotPro.png" alt="David Stroupe" style="border-radius:50%; width:130px;" />
 
-#### Knowledgeable:
-- **Full Stack Development** (React, Node.js, Express.js, HTML5, CSS3, RESTful APIs)
-- **Cloud Technologies** (AWS: EC2, S3)
-- **Source Control** (Git, GitHub)
+<h1>David Stroupe</h1>
 
----
+<p><strong>Knowledge Management Analyst · Defense Technology Professional · U.S. Navy Veteran</strong></p>
 
-<!-- Projects Section -->
-### Projects
-
-<div align="center">
-  <a href="https://dnstroupe.github.io/pokemon-bot/">
-    <img src="https://img.shields.io/static/v1?label=Project&message=Pokemon%20Bot&color=blue" alt="Pokemon Bot Project" />
-  </a>
-  <a href="https://github.com/dnstroupe/Anime-TV-Recommender">
-    <img src="https://img.shields.io/static/v1?label=Project&message=Anime%20TV%20Recommender&color=blue" alt="Anime TV Recommender Project" />
-  </a>
-  <a href="https://github.com/dnstroupe/PuppyBowl">
-    <img src="https://img.shields.io/static/v1?label=Project&message=Puppy%20Bowl%20Management&color=blue" alt="Puppy Bowl Management Project" />
-  </a>
-</div>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Pokemon Bot](https://dnstroupe.github.io/pokemon-bot/) | A chatbot that recommends Pokemon based on user preferences. | JavaScript, HTML5, CSS3 |
-| [Anime TV Show Recommender](https://github.com/dnstroupe/Anime-TV-Recommender) | A responsive web app that helps users discover new anime shows. | JavaScript, HTML5, CSS3 |
-| [Puppy Bowl Management](https://github.com/dnstroupe/PuppyBowl) | A web app managing Puppy Bowl players using CRUD operations. | React, Node.js, MongoDB, Express.js |
-
----
-
-<!-- GitHub Stats Section -->
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&theme=dark" alt="David's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=dark" alt="GitHub Streak" />
-</div>
-
----
-
-<!-- Certifications and Education -->
-### Certifications & Education
-
-- **Active TS/SCI Security Clearance**
-- **ITIL V4 Foundation**
-- **Fullstack Academy Web Development Bootcamp** (Oct 2023 - Apr 2024)
-- **DISA Services Course** - DISA Strategic Partner Integration Office
-
----
-
-<!-- Connect Section -->
-### Connect with Me
-
-<div align="center">
+<p>
   <a href="https://www.linkedin.com/in/david-stroupe">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-david--stroupe-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="https://dnstroupe.github.io/David-Stroupe-Resume/">
+    <img src="https://img.shields.io/badge/Resume-View%20Online-b8975a?style=flat&logo=github&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
   <a href="mailto:d.n.stroupe@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-d.n.stroupe%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://dnstroupe.github.io/portfolio/">
-    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio" />
-  </a>
-</div>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Clearance-TS%2FSCI%20Active-1c2535?style=flat&logoColor=white" alt="TS/SCI" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=dnstroupe&style=flat&color=b8975a&label=Profile+Views" alt="Profile Views" />
+</p>
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dnstroupe)
+</div>
 
 ---
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dnstroupe&style=flat-square&color=blue" alt="Visitors" />
-  <br />
-  <i>Last updated on September 2024</i>
-</p>
+## About
+
+Technical knowledge management professional with **20+ years supporting DoD operations** and specialized experience delivering enterprise-scale solutions for the Defense Information Systems Agency (DISA). I bridge the gap between complex defense environments and modern data tools — turning operational requirements into Power BI dashboards, SharePoint architectures, and automated workflows that drive real decisions.
+
+Currently supporting **DISA J-3/5/7 Directorate** at Fort George G. Meade as a Knowledge Management Analyst with Addx Corporation.
+
+```
+Focus Areas:  Enterprise Analytics  ·  Knowledge Management  ·  DoD Operations Support
+Clearance:    TS/SCI (Active)
+Location:     Fort Meade, MD
+Service:      U.S. Navy · E-6 · 20 Years
+```
+
+---
+
+## Core Competencies
+
+| Domain | Technologies & Skills |
+|--------|----------------------|
+| **Analytics & Dashboards** | Power BI · DAX · Data Modeling · KPI Development · Automated Data Pipelines |
+| **SharePoint & M365** | SharePoint Online Architecture · Power Automate · Power Apps · Teams · OneDrive |
+| **Data Management** | MAPS Integration · SQL · Microsoft Access · Excel (Power Query, Pivot Tables) |
+| **DoD Systems** | DISA ETMS · SIPRNet / NIPRNet · Classified Information Handling · OAB Coordination |
+| **Development** | HTML5 · CSS3 · JavaScript · Git · RESTful APIs · JSON |
+| **Methodology** | ITIL v4 · Agile · SDLC · Process Documentation · Requirements Gathering |
+
+---
+
+## Professional Experience
+
+**Knowledge Management Analyst** — Addx Corporation *(Oct 2025 – Present)*
+> Supporting DISA J-3/5/7 Directorate · Fort Meade, MD
+
+- Architected enterprise Power BI dashboard with automated MAPS → SharePoint → Power BI data pipeline, eliminating manual entry and providing real-time OAB program portfolio visibility
+- Led complete redesign and rebuild of J-3/5/7 Branch SharePoint site — modernized information architecture, implemented Power Automate workflows, significantly increased user engagement
+- Coordinates IPT/OAB meetings; produces SITREPs, WARs, and executive presentations for senior leadership
+
+---
+
+**Lead Technologist (SharePoint Solutions)** — Booz Allen Hamilton *(Jan 2024 – Sep 2025)*
+> Supporting DISA J-3/5/7 & Mobility Services · Annapolis Junction, MD
+
+- Scaled SharePoint dashboards from **30 → 1,000+ monthly views** (3,000%+ increase)
+- Authored 3 official DISA knowledge base articles adopted across 5+ mission partner organizations
+
+---
+
+**Contract Lead / Manpower Analyst** — WWC Federal *(Nov 2019 – Jan 2024)*
+> Honolulu, HI
+
+- Executed 250+ Manpower Change Requests managing 2,600+ personnel records
+- Led data accuracy initiatives improving organizational efficiency by **45%**
+
+---
+
+**Administrative Services Manager & Career Counselor** — United States Navy *(2000 – 2020)*
+> E-6 · 20 Years · Global Operations
+
+- Managed 17 executive personnel programs with 94% promotion compliance across 2,600+ Sailors
+- Processed 30,000+ personnel transactions at 99% accuracy; $1M+ budget with zero audit deficiencies
+
+---
+
+## Certifications
+
+- 🔐 **Active TS/SCI Security Clearance** (Top Secret / Sensitive Compartmented Information)
+- ✦ **ITIL v4 Foundation** — IT Service Management
+- ✦ **CompTIA Security+** — Bootcamp Completed
+- ✦ **Full-Stack JavaScript Web Development** — Fullstack Academy (April 2024)
+- ✦ **DISA Services Course** (18 Hours) — DISA Strategic Partner Integration Office
+- ✦ **DOL Registered Apprenticeships** — Office Manager/Admin Services (4,600 hrs) · Computer Operator (2,000 hrs)
+- ✦ **Booz Allen Digital Credentials** — HTML · CSS · JavaScript · Git · AI Enablement · Critical Thinking
+
+---
+
+## Military Awards & Decorations
+
+`Joint Service Commendation Medal` &nbsp; `Navy & Marine Corps Achievement Medal ×9` &nbsp; `Good Conduct Medal ×6` &nbsp; `National Defense Service Medal ×2` &nbsp; `Global War on Terrorism Service Medal` &nbsp; `Armed Forces Expeditionary Medal` &nbsp; `Military Outstanding Volunteer Service Medal` &nbsp; `Overseas Service Ribbon ×4` &nbsp; `Joint Meritorious Unit Commendation` &nbsp; `Navy Unit Commendation`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&theme=dark&hide_border=true&bg_color=1c2535&title_color=b8975a&icon_color=b8975a&text_color=ffffff" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=dark&hide_border=true&background=1c2535&ring=b8975a&fire=b8975a&currStreakLabel=b8975a" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+**[View Full Interactive Resume →](https://dnstroupe.github.io/David-Stroupe-Resume/)**
+
+*Fort Meade, MD · TS/SCI Cleared · Open to select defense contracting opportunities*
+
+</div>
