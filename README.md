@@ -54,7 +54,9 @@ I am currently enrolled in the Google UX Design certificate course and developin
 ## My portfolio
 
 
-My first project here is [Data & Interface](https://github.com/dnstroupe/data-design-portfolio), a portfolio of my dashboard, reporting, and workflow experience. The repository includes the website, case studies, design notes, accessibility checks, and a plan for what I want to build next.
+My first featured dashboard project is [Operations Overview](https://github.com/dnstroupe/operations-overview). It brings together editable Figma layouts, a working demo, and the story behind the design. All of the data is fictional.
+
+[My portfolio](https://dnstroupe.github.io/data-design-portfolio/) also covers my professional dashboard, reporting, and workflow experience.
 
 
 Public projects will use synthetic or public data. Customer applications and operational data from my government work are not published here.
