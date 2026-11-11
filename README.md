@@ -1,128 +1,45 @@
-<div align="center">
+# David Stroupe
 
-<img src="https://github.com/dnstroupe/business-photo/blob/main/David%20Stroupe%20-%20HeadshotPro.png" alt="David Stroupe" style="border-radius:50%; width:130px;" />
+**Data Visualization Analyst · Operational Applications · U.S. Navy Veteran**
 
-<h1>David Stroupe</h1>
+I build operational dashboards and reporting tools for government teams and senior leaders. My background includes more than 20 years of Department of Defense experience across military service, knowledge management, and business systems.
 
-<p><strong>Knowledge Management Analyst · Defense Technology Professional · U.S. Navy Veteran</strong></p>
+[Connect on LinkedIn](https://www.linkedin.com/in/david-stroupe/)
 
-<p>
-  <a href="https://www.linkedin.com/in/david-stroupe">
-    <img src="https://img.shields.io/badge/LinkedIn-david--stroupe-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://dnstroupe.github.io/David-Stroupe-Resume/">
-    <img src="https://img.shields.io/badge/Resume-View%20Online-b8975a?style=flat&logo=github&logoColor=white" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="mailto:d.n.stroupe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-d.n.stroupe%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Clearance-TS%2FSCI%20Active-1c2535?style=flat&logoColor=white" alt="TS/SCI" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=dnstroupe&style=flat&color=b8975a&label=Profile+Views" alt="Profile Views" />
-</p>
+## What I work on
 
-</div>
+At Leidos, I develop dashboards and analytical tools in Palantir Foundry Workshop. I review service requests, assess datasets and ontology objects, and look for ways to improve the process before building the application.
 
----
+My work includes configuring dashboard interfaces, bringing related information together, and using AIP Logic and Augmentation to help users retrieve information. My earlier roles include Power BI executive reporting, Power Automate intake workflows, and SharePoint portals.
 
-## About
+## Tools and practice
 
-Technical knowledge management professional with **20+ years supporting DoD operations** and specialized experience delivering enterprise-scale solutions for the Defense Information Systems Agency (DISA). I bridge the gap between complex defense environments and modern data tools — turning operational requirements into Power BI dashboards, SharePoint architectures, and automated workflows that drive real decisions.
+* **Data visualization:** Palantir Foundry Workshop, Power BI, and Excel
+* **Workflow and information management:** Power Automate, SharePoint, and Microsoft Access
+* **Web foundations:** HTML, CSS, JavaScript, and Git
+* **Design:** Requirements analysis, interface refinement, and user acceptance testing
 
-Currently supporting **DISA J-3/5/7 Directorate** at Fort George G. Meade as a Knowledge Management Analyst with Addx Corporation.
+I am currently enrolled in the Google UX Design certificate course and developing my Figma skills. Course projects and independent design work will be added as they are completed.
 
-```
-Focus Areas:  Enterprise Analytics  ·  Knowledge Management  ·  DoD Operations Support
-Clearance:    TS/SCI (Active)
-Location:     Fort Meade, MD
-Service:      U.S. Navy · E-6 · 20 Years
-```
+## About these repositories
 
----
+This account includes personal projects, web experiments, and earlier development coursework. These repositories are separate from my professional government work. Customer applications and operational data are not published here.
 
-## Core Competencies
+The repositories are being reviewed for clearer documentation, working demos, and project context. Earlier exercises remain part of my learning history; they are not presented as production applications.
 
-| Domain | Technologies & Skills |
-|--------|----------------------|
-| **Analytics & Dashboards** | Power BI · DAX · Data Modeling · KPI Development · Automated Data Pipelines |
-| **SharePoint & M365** | SharePoint Online Architecture · Power Automate · Power Apps · Teams · OneDrive |
-| **Data Management** | MAPS Integration · SQL · Microsoft Access · Excel (Power Query, Pivot Tables) |
-| **DoD Systems** | DISA ETMS · SIPRNet / NIPRNet · Classified Information Handling · OAB Coordination |
-| **Development** | HTML5 · CSS3 · JavaScript · Git · RESTful APIs · JSON |
-| **Methodology** | ITIL v4 · Agile · SDLC · Process Documentation · Requirements Gathering |
+## Background
 
----
+* **Leidos:** Data Visualization Analyst, August 2026 to present
+* **Addx Corporation:** Knowledge Management Analyst, October 2025 to August 2026
+* **FedWriters:** Administrative Operations Specialist, September 2025 to October 2025
+* **Booz Allen Hamilton:** Solution Architect, later Lead Technologist; client role in SharePoint administration, January 2024 to September 2025
+* **WWC Federal / WWC Global:** Contract Lead / Manpower Analyst, November 2019 to January 2024
+* **United States Navy:** Administrative services and career counseling, January 2000 to January 2020
 
-## Professional Experience
+## Education and continued learning
 
-**Knowledge Management Analyst** — Addx Corporation *(Oct 2025 – Present)*
-> Supporting DISA J-3/5/7 Directorate · Fort Meade, MD
+Associate of Arts in General Studies, American Military University. Bachelor’s studies are currently paused with two courses remaining.
 
-- Architected enterprise Power BI dashboard with automated MAPS → SharePoint → Power BI data pipeline, eliminating manual entry and providing real-time OAB program portfolio visibility
-- Led complete redesign and rebuild of J-3/5/7 Branch SharePoint site — modernized information architecture, implemented Power Automate workflows, significantly increased user engagement
-- Coordinates IPT/OAB meetings; produces SITREPs, WARs, and executive presentations for senior leadership
+Completed JavaScript web development coursework through Fullstack Academy; no bootcamp certificate awarded. Security+ and ITIL Foundation were training courses, not certifications held.
 
----
-
-**Lead Technologist (SharePoint Solutions)** — Booz Allen Hamilton *(Jan 2024 – Sep 2025)*
-> Supporting DISA J-3/5/7 & Mobility Services · Annapolis Junction, MD
-
-- Scaled SharePoint dashboards from **30 → 1,000+ monthly views** (3,000%+ increase)
-- Authored 3 official DISA knowledge base articles adopted across 5+ mission partner organizations
-
----
-
-**Contract Lead / Manpower Analyst** — WWC Federal *(Nov 2019 – Jan 2024)*
-> Honolulu, HI
-
-- Executed 250+ Manpower Change Requests managing 2,600+ personnel records
-- Led data accuracy initiatives improving organizational efficiency by **45%**
-
----
-
-**Administrative Services Manager & Career Counselor** — United States Navy *(2000 – 2020)*
-> E-6 · 20 Years · Global Operations
-
-- Managed 17 executive personnel programs with 94% promotion compliance across 2,600+ Sailors
-- Processed 30,000+ personnel transactions at 99% accuracy; $1M+ budget with zero audit deficiencies
-
----
-
-## Certifications
-
-- 🔐 **Active TS/SCI Security Clearance** (Top Secret / Sensitive Compartmented Information)
-- ✦ **ITIL v4 Foundation** — IT Service Management
-- ✦ **CompTIA Security+** — Bootcamp Completed
-- ✦ **Full-Stack JavaScript Web Development** — Fullstack Academy (April 2024)
-- ✦ **DISA Services Course** (18 Hours) — DISA Strategic Partner Integration Office
-- ✦ **DOL Registered Apprenticeships** — Office Manager/Admin Services (4,600 hrs) · Computer Operator (2,000 hrs)
-- ✦ **Booz Allen Digital Credentials** — HTML · CSS · JavaScript · Git · AI Enablement · Critical Thinking
-
----
-
-## Military Awards & Decorations
-
-`Joint Service Commendation Medal` &nbsp; `Navy & Marine Corps Achievement Medal ×9` &nbsp; `Good Conduct Medal ×6` &nbsp; `National Defense Service Medal ×2` &nbsp; `Global War on Terrorism Service Medal` &nbsp; `Armed Forces Expeditionary Medal` &nbsp; `Military Outstanding Volunteer Service Medal` &nbsp; `Overseas Service Ribbon ×4` &nbsp; `Joint Meritorious Unit Commendation` &nbsp; `Navy Unit Commendation`
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnstroupe&show_icons=true&theme=dark&hide_border=true&bg_color=1c2535&title_color=b8975a&icon_color=b8975a&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dnstroupe&theme=dark&hide_border=true&background=1c2535&ring=b8975a&fire=b8975a&currStreakLabel=b8975a" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-
-**[View Full Interactive Resume →](https://dnstroupe.github.io/David-Stroupe-Resume/)**
-
-*Fort Meade, MD · TS/SCI Cleared · Open to select defense contracting opportunities*
-
-</div>
+For my current experience and professional opportunities, [connect with me on LinkedIn](https://www.linkedin.com/in/david-stroupe/).
