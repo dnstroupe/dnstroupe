@@ -97,10 +97,11 @@ For my current experience and professional opportunities, [connect with me on Li
 
 ## Microsoft Learn badges
 
-Seven completed modules in AI-assisted development, automation, and data visualization. These are learning achievements.
+Eight completed modules in AI-assisted development, automation, and data visualization. These are learning achievements.
 
 | Badge | Completed module | Completed |
 | --- | --- | --- |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="48" height="48" alt=""> | [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/HVWXT3N8) | November 15, 2026 |
 | <img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="48" height="48" alt=""> | [Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/973WKRKU) | November 15, 2026 |
 | <img src="https://learn.microsoft.com/en-us/training/achievements/multiple-data-sources.svg" width="48" height="48" alt=""> | [Power Automate's deep integration across multiple data sources](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/NM8A3JZF) | April 15, 2026 |
 | <img src="https://learn.microsoft.com/en-us/training/achievements/manage-user-information.svg" width="48" height="48" alt=""> | [Build flows to manage user information](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/9R6W5XJU) | April 15, 2026 |
