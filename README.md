@@ -93,3 +93,20 @@ Completed JavaScript web development coursework through Fullstack Academy; no bo
 
 
 For my current experience and professional opportunities, [connect with me on LinkedIn](https://www.linkedin.com/in/david-stroupe/).
+
+
+## Microsoft Learn badges
+
+Seven completed modules in AI-assisted development, automation, and data visualization. These are learning achievements.
+
+| Badge | Completed module | Completed |
+| --- | --- | --- |
+| <img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="48" height="48" alt=""> | [Introduction to GitHub Copilot](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/973WKRKU) | November 15, 2026 |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/multiple-data-sources.svg" width="48" height="48" alt=""> | [Power Automate's deep integration across multiple data sources](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/NM8A3JZF) | April 15, 2026 |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/manage-user-information.svg" width="48" height="48" alt=""> | [Build flows to manage user information](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/9R6W5XJU) | April 15, 2026 |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/build-approval-flows.svg" width="48" height="48" alt=""> | [Build approval flows with Power Automate](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/379W3RFH) | April 15, 2026 |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-with-flow.svg" width="48" height="48" alt=""> | [Get started with Power Automate](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/NMHG4J2F) | April 13, 2026 |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/generic-badge.svg" width="48" height="48" alt=""> | [Write effective prompts to achieve optimal results](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/46M75UXK) | April 5, 2026 |
+| <img src="https://learn.microsoft.com/en-us/training/achievements/get-started-power-bi.svg" width="48" height="48" alt=""> | [Get started building with Power BI](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements/print/HZC5YBE8) | April 5, 2026 |
+
+[View my Microsoft Learn achievements](https://learn.microsoft.com/en-us/users/dstroupe-1306/achievements) · [Explore my portfolio](https://dnstroupe.github.io/data-design-portfolio/#learning)
